@@ -724,6 +724,7 @@ body {
 }
 hr {
   border: none;
+  color: transparent;
   border-top: dashed 1px #666;
   border-bottom: none;
   margin: 50px 0 30px;
