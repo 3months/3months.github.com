@@ -739,6 +739,7 @@ h3.is {
   text-align: center;
   font-family: serif;
   font-style: italic;
+  padding: 0 15px;
 }
 h1#logo {
   text-indent: -10000px;
@@ -753,6 +754,10 @@ h1#logo {
 .team-box img,
 .team-box div.info {
   float: left;
+}
+.team-box img {
+  width: 90px;
+  height: 90px;
 }
 .team-box .clearfix {
   clear: both;
